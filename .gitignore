@@ -1,4 +1,4 @@
-.gradle
+*.gradle
 .idea
 allure-report
 allure-results
