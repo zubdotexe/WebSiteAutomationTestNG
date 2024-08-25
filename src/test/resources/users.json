@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Gilma",
+    "lastName": "Cummings",
+    "password": "@Gilma#56",
+    "employeeId": "281",
+    "username": "gilma_cummings"
+  },
+  {
+    "firstName": "Shalon",
+    "lastName": "Parisian",
+    "password": "@Shalon#53",
+    "employeeId": "181",
+    "username": "shalon_parisian"
+  },
+  {
+    "firstName": "Serita",
+    "lastName": "Schinner",
+    "password": "@Serita#28",
+    "employeeId": "419",
+    "username": "serita_schinner"
+  }
+]
