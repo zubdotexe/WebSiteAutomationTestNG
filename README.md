@@ -33,15 +33,15 @@ Run the following command in the terminal inside the project directory:
 
 ## Output  
 ### Report 
-#### Overview
 ![allure_report](https://github.com/user-attachments/assets/31ba1a86-5c7d-4b74-8370-3ab2db85eccf)  
-
-#### Behaviors
+<br>
+<br>
 ![allure_report_behavior_v3](https://github.com/user-attachments/assets/5c299ae8-5c98-45e5-8e40-7c4fedb4ebfb)
-
+<br>
+<br>
 ### Test Cases
 Please click the link to view the test cases:  
-https://docs.google.com/spreadsheets/d/11Wnky-CMHicVizqBDMaNdL6fwkhhp5focviEeWb6k28/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/11Wnky-CMHicVizqBDMaNdL6fwkhhp5focviEeWb6k28/edit?usp=sharing  
 
 ### Demonstration video
 Please click the link to watch the video:  
