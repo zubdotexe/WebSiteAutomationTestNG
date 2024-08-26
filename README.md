@@ -1,6 +1,6 @@
 # Project Title: Automation of OrangeHRM Demo Using TestNG 
 
-### Project Summary: Orange HRM is a Human resource management system that has been automated in this project. The tests for Login module have been automated for both admin and employees created by admin. Then, the employee creation process by admin has been automated and tested by searching newly created employees by their names and employee IDs. Lastly, the Employee module has been tested by automating the setting of gender and blood group of employees through their profiles. 
+### Project Summary: OrangeHRM is a Human resource management system that has been automated in this project. The tests for Login module have been automated for both admin and employees created by admin. Then, the employee creation process by admin has been automated and tested by searching newly created employees by their names and employee IDs. Lastly, the Employee module has been tested by automating the setting of gender and blood group of employees through their profiles. 
 
 ## Prerequisites  
 * JDK 11
