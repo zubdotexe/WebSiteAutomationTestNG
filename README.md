@@ -39,6 +39,10 @@ Run the following command in the terminal inside the project directory:
 #### Behaviors
 ![allure_report_behavior_v3](https://github.com/user-attachments/assets/5c299ae8-5c98-45e5-8e40-7c4fedb4ebfb)
 
+### Test Cases
+Please click the link to view the test cases:  
+https://docs.google.com/spreadsheets/d/11Wnky-CMHicVizqBDMaNdL6fwkhhp5focviEeWb6k28/edit?usp=sharing
+
 ### Demonstration video
 Please click the link to watch the video:  
 https://drive.google.com/file/d/1Edm2PExKyLRol4APveshlJntcYX1bWIo/view?usp=sharing
