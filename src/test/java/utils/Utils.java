@@ -8,6 +8,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import setup.EmployeeModel;
 import setup.Setup;
 
 import java.io.FileReader;
@@ -33,7 +34,7 @@ public class Utils {
         writer.flush();
     }
 
-    public static void saveUsers(Setup.EmployeeModel model) throws IOException, ParseException {
+    public static void saveUsers(EmployeeModel model) throws IOException, ParseException {
 
 //        String filePath = "./src/test/resources/users.json";
 //        JSONParser jsonParser = new JSONParser();

@@ -12,6 +12,7 @@ import org.testng.asserts.SoftAssert;
 import pages.LoginPage;
 import pages.PIMPage;
 import setup.Setup;
+import setup.EmployeeModel;
 import utils.Utils;
 
 import java.io.IOException;

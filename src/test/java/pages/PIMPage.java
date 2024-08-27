@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import setup.EmployeeModel;
 import setup.Setup;
 import utils.Utils;
 
@@ -51,7 +52,7 @@ public class PIMPage {
         btnSubmit.click();
     }
 
-    public void createNewEmployee(Setup.EmployeeModel model) {
+    public void createNewEmployee(EmployeeModel model) {
 
         textField.get(1).sendKeys(model.getFirstName());
         textField.get(3).sendKeys(model.getLastName());
